@@ -3,6 +3,7 @@ EXP3=HALF ADDER AND HALF SUBSTRACTOR
 NAME=H.VEDHANTH
 
 REF NO=24003775
+
 **AIM:**
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -55,11 +56,13 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 ![WhatsApp Image 2024-12-18 at 22 03 47_d989393d](https://github.com/user-attachments/assets/07034ef4-13d8-4805-9327-cbd6a4e2f3f1)
+
 ![WhatsApp Image 2024-12-18 at 22 04 49_9b5d2e31](https://github.com/user-attachments/assets/6b728f23-6869-4d1a-9cc1-eed74a57c1f4)
 
 **Output/TIMING Waveform**
 1.HALF ADDER 
 ![WhatsApp Image 2024-12-18 at 22 20 40_8377b2a7](https://github.com/user-attachments/assets/39f9c7af-bf15-4fd2-aa95-cad0259fbe63)
+
 2.HALF SUBSTRACTOR
 ![WhatsApp Image 2024-12-18 at 22 20 55_6698c1c8](https://github.com/user-attachments/assets/d0c51bed-98a0-4699-acb1-262a8cb036d1)
 
