@@ -60,10 +60,15 @@ Figure -02 HALF Subtractor
 ![WhatsApp Image 2024-12-18 at 22 04 49_9b5d2e31](https://github.com/user-attachments/assets/6b728f23-6869-4d1a-9cc1-eed74a57c1f4)
 
 **Output/TIMING Waveform**
-1.HALF ADDER 
+
+1.HALF ADDER
+
 ![WhatsApp Image 2024-12-18 at 22 20 40_8377b2a7](https://github.com/user-attachments/assets/39f9c7af-bf15-4fd2-aa95-cad0259fbe63)
 
+
 2.HALF SUBSTRACTOR
+
 ![WhatsApp Image 2024-12-18 at 22 20 55_6698c1c8](https://github.com/user-attachments/assets/d0c51bed-98a0-4699-acb1-262a8cb036d1)
+
 
 Result:THUS THE HALF ADDER AND HALF SUBSTRACTOR CIRCUITS ARE DESIGNED AND TRUTH TABLE IS VERIFIED USING QUARTUS SPOFTWARW
